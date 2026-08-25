@@ -138,24 +138,6 @@ I'm particularly interested in opportunities involving:
 **AI Engineering • Machine Learning Engineering • Generative AI • NLP • LLM Applications • Recommendation Systems • Backend + AI**
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-company&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-company&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh-company/ashutosh-company/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">

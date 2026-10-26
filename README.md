@@ -2,7 +2,7 @@
 
 ### 🤖 AI / ML Engineer | Python Developer | Machine Learning Enthusiast
 
-I am a **Python developer transitioning into AI/ML engineering**, with a strong interest in building intelligent, data-driven applications and production-ready AI systems.
+I am an **AI/ML engineering**, with a strong interest in building intelligent, data-driven applications and production-ready AI systems.
 
 My experience spans **Machine Learning, NLP, recommendation systems, backend development, REST APIs, and data-driven applications**. I enjoy taking an idea from data preprocessing and model development to API integration and deployment.
 
